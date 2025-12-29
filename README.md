@@ -6,3 +6,5 @@ All data is publicly available from AniList.
 
 https://docs.anilist.co/guide/introduction
 
+Demo:
+https://github.com/ty-dotcom/MangaRecommendation/blob/main/Demo.mp4
